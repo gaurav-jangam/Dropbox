@@ -1,0 +1,34 @@
+{
+    "initial": {
+        "diagrams": [
+            {
+                "id": "1682699720825",
+                "items": [],
+                "rootIds": []
+            }
+        ],
+        "diagramIds": [
+            "1682699720825"
+        ],
+        "id": "22ce7524-ecb1-46aa-8212-2404b11fb023",
+        "size": {
+            "x": 1000,
+            "y": 1000
+        }
+    },
+    "actions": [
+        {
+            "type": "items/addShape",
+            "payload": {
+                "diagramId": "1682699720825",
+                "timestamp": 1682699727473,
+                "id": "1682699720836",
+                "renderer": "Add Shape",
+                "position": {
+                    "x": 219.5999984741211,
+                    "y": 131.9375
+                }
+            }
+        }
+    ]
+}
