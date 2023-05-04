@@ -1,0 +1,84 @@
+{
+    "initial": {
+        "diagrams": [
+            {
+                "id": "1683108142549",
+                "items": [],
+                "rootIds": []
+            }
+        ],
+        "diagramIds": [
+            "1683108142549"
+        ],
+        "id": "5174076b-3100-a6fa-0404-83de4596341d",
+        "size": {
+            "x": 1000,
+            "y": 1000
+        }
+    },
+    "actions": [
+        {
+            "type": "items/addShape",
+            "payload": {
+                "diagramId": "1683108142549",
+                "timestamp": 1683108158892,
+                "id": "1683108142560",
+                "renderer": "Add Shape",
+                "position": {
+                    "x": 100,
+                    "y": 100
+                }
+            }
+        },
+        {
+            "type": "items/addShape",
+            "payload": {
+                "diagramId": "1683108142549",
+                "timestamp": 1683108160556,
+                "id": "1683108142565",
+                "renderer": "Add Text",
+                "position": {
+                    "x": 100,
+                    "y": 100
+                }
+            }
+        },
+        {
+            "type": "items/addShape",
+            "payload": {
+                "diagramId": "1683108142549",
+                "timestamp": 1683108162891,
+                "id": "1683108142570",
+                "renderer": "Add Text",
+                "position": {
+                    "x": 100,
+                    "y": 100
+                }
+            }
+        },
+        {
+            "type": "items/transform",
+            "payload": {
+                "diagramId": "1683108142549",
+                "timestamp": 1683108165571,
+                "oldBounds": {
+                    "x": 121,
+                    "y": 125,
+                    "w": 42,
+                    "h": 50,
+                    "r": 0
+                },
+                "newBounds": {
+                    "x": 179,
+                    "y": 175,
+                    "w": 42,
+                    "h": 50,
+                    "r": 0
+                },
+                "itemIds": [
+                    "1683108142570"
+                ]
+            }
+        }
+    ]
+}
